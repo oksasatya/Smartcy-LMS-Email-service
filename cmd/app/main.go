@@ -39,7 +39,7 @@ func runGrpcServer() {
 	grpcServer := grpc.NewServer()
 
 	// initialize all services
-	grpcHost := os.Getenv("GRPC_HOST")
+	grpcHost := os.Getenv("GRPC_HOTS")
 	if grpcHost == "" {
 		grpcHost = "localhost"
 	}
