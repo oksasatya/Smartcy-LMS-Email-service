@@ -1,0 +1,100 @@
+time="2024-09-24 00:59:02" level=info msg="Running AutoMigrate..." Environment=Production
+time="2024-09-24 00:59:02" level=info msg="Running Seeders..." Environment=Production
+time="2024-09-24 00:59:02" level=info msg="Emails seeded successfully" Environment=Production
+time="2024-09-24 00:59:02" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x9de20460 into text format for varchar (OID 1043): cannot find encode plan" Environment=Production
+time="2024-09-24 00:59:25" level=info msg="Running AutoMigrate..." Environment=Production
+time="2024-09-24 00:59:25" level=info msg="Running Seeders..." Environment=Production
+time="2024-09-24 00:59:25" level=info msg="Emails seeded successfully" Environment=Production
+time="2024-09-24 00:59:25" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x2a7b57b5 into text format for varchar (OID 1043): cannot find encode plan" Environment=Production
+time="2024-09-24 00:59:56" level=info msg="Running AutoMigrate..." Environment=Production
+time="2024-09-24 00:59:56" level=info msg="Running Seeders..." Environment=Production
+time="2024-09-24 00:59:56" level=info msg="Emails seeded successfully" Environment=Production
+time="2024-09-24 00:59:56" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x5bf1dc53 into text format for varchar (OID 1043): cannot find encode plan" Environment=Production
+time="2024-09-24 01:00:26" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:00:26" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:00:26" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:00:26" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0xc6433467 into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:01:28" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:01:28" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:01:28" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:01:28" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x1b7aed2f into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:02:14" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:02:14" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:02:14" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:02:14" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0xc0ecbcec into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:02:39" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:02:39" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:02:39" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:02:39" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x967703bf into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:03:37" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:03:37" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:03:37" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:03:37" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0xa326a70d into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:03:58" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:03:58" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:03:58" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:03:58" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0xed9a232b into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:04:14" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:04:14" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:04:14" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:04:14" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x4ab03de into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:05:06" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:05:06" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:05:06" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:05:06" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x534f3e7c into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:05:08" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:05:08" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:05:08" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:05:08" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 0x9a5a619c into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:05:21" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:05:21" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:05:21" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:05:21" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 8165183418405910094 into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:08:00" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:08:00" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:08:00" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:08:00" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 3 into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:08:35" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:08:35" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:08:35" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:08:35" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 20 into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:09:10" level=info msg="Running AutoMigrate..." Environment=Development
+time="2024-09-24 01:09:10" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:09:10" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:09:10" level=fatal msg="Failed to seed EmailLogs: failed to encode args[2]: unable to encode 16 into text format for varchar (OID 1043): cannot find encode plan" Environment=Development
+time="2024-09-24 01:11:51" level=info msg="Running AutoDrop (Rollback all migrations) and AutoMigrate..." Environment=Development
+time="2024-09-24 01:11:51" level=info msg="Running Seeders..." Environment=Development
+time="2024-09-24 01:11:51" level=info msg="Emails seeded successfully" Environment=Development
+time="2024-09-24 01:11:51" level=info msg="EmailLogs seeded successfully" Environment=Development
+time="2024-09-24 01:11:51" level=info msg="Seed all success" Environment=Development
+time="2024-09-24 01:11:51" level=info msg="AutoMigrate and Seeders completed." Environment=Development
+time="2024-09-24 14:55:46" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:02:54" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:03:01" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:03:10" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:04:28" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:06:21" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:07:16" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:07:41" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:08:02" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:08:10" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:08:59" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:09:12" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:09:20" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:09:29" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:10:08" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:10:48" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:14:03" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:15:05" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:15:34" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:16:56" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:17:12" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:17:59" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:18:08" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:18:21" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:19:09" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:19:44" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:19:54" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:19:58" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:24:18" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development
+time="2024-09-24 15:29:20" level=info msg="Skipping AutoMigrate and AutoDrop." Environment=Development

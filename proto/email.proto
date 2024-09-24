@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+package proto;
+
+option go_package = "github.com/ghssni/Smartcy-LMS/Email-Service/pb;pb";
+
+// Meta message to standardize the response
+message Meta {
+  string message = 1;
+  int32 code = 2;
+  string status = 3;
+}
+
+
+// Email Service definition
+service EmailService {
+  rpc SendForgotPasswordEmail (SendForgotPasswordEmailRequest) returns (SendForgotPasswordEmailResponse);
+  rpc SendPaymentDueEmail (SendPaymentDueEmailRequest) returns (SendPaymentDueEmailResponse);
+  rpc SendPaymentSuccessEmail (SendPaymentSuccessEmailRequest) returns (SendPaymentSuccessEmailResponse);
+}
+
+// Request & Response for Forgot Password Email
+message SendForgotPasswordEmailRequest {
+  string user_id = 1;
+  string email = 2;
+  string reset_token = 3;
+  string reset_link = 4;
+}
+
+message SendForgotPasswordEmailResponse {
+  Meta meta = 1;
+  bool success = 2;
+}
+
+// Request & Response for Payment Due Email
+message SendPaymentDueEmailRequest {
+  string user_id = 1;
+  string email = 2;
+  string enrollment_id = 3;
+  string payment_link = 4;
+  string course_name =5;
+}
+
+message SendPaymentDueEmailResponse {
+  Meta meta = 1;
+  bool success = 2;
+}
+
+// Request & Response for Payment Success Email
+message SendPaymentSuccessEmailRequest {
+  string user_id = 1;
+  string email = 2;
+  string enrollment_id = 3;
+  string invoice_id = 4;
+  string course_name = 5;
+}
+
+message SendPaymentSuccessEmailResponse {
+  Meta meta = 1;
+  bool success = 2;
+}
